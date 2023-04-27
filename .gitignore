@@ -1,4 +1,10 @@
-# Ignore everything in this directory
-*
-# Except this file
-!.gitignore
+bin/
+
+# IDE ignores
+**/.idea
+**/*.bak
+.vscode/*
+*.iml
+.DS*
+**/.DS_Store
+.idea/
